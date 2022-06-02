@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** Pavlo Nikitin
 
-**Título:** 
+**Título:** Belonging
 
-**Resumen:**
+**Resumen:** Es un juego que reflexiona sobre que significa "Belonging" o en español "Pertenencia" a un lugar.
 
 **Licencia: (creative Commons)**
 
