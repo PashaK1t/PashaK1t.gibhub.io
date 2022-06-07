@@ -117,7 +117,7 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si que funciona.
 
 
 
