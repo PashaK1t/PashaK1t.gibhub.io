@@ -135,8 +135,8 @@ Estoy muy contento con el trabajo realizado.
 
 **Artículos y blogs** 
 
--Articulo sobre la evolución de pixel Art https://highload.today/pikselnyj-art/
--Juego en el cuál me inspiré : https://undertale.com/about/
+*Articulo sobre la evolución de pixel Art https://highload.today/pikselnyj-art/
+*Juego en el cuál me inspiré : https://undertale.com/about/
 
 
 **Recursos y materiales audiovisuales:**
