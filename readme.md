@@ -136,7 +136,7 @@ Estoy muy contento con el trabajo realizado.
 **Artículos y blogs ** 
 
 -Articulo sobre la evolución de pixel Art https://highload.today/pikselnyj-art/
-
+-Juego en el cuál me inspiré : https://undertale.com/about/
 **Recursos y materiales audiovisuales:**
 
 * Musica: La gran parte de música que hay en el juego esta hecha por mí. En el final usé la musica de : Clinton Patrick Rusich - Broken Wings. https://www.youtube.com/watch?v=E7n1aeBtwXM 
