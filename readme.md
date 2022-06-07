@@ -35,8 +35,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+- Instagram :https://www.instagram.com/pashak1t/
 
 
 
@@ -55,7 +54,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![IMG_1037](https://user-images.githubusercontent.com/106731785/172434693-c9173bf6-c83f-49f3-bdc2-5bb1288a452d.JPG)
 
-Desde todas las escenas es posible volver al menú.
+Desde el menú inicial puedes acceder a todos los apartados principales del juego. Desde Galeria y creditos es posible volver al menú principal. 
 
 
 
