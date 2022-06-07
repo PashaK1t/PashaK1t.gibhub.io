@@ -55,9 +55,11 @@ Al comenzar la partida aparece el personaje y el texto que lo acompaña. Luego, 
 
 ![Captura de pantalla (48)](https://user-images.githubusercontent.com/106731785/172445745-15aa2196-f39f-4971-b999-b85eba345c91.jpg)
 
+Cuando el personaje se acerca a la puerta, comienza la escena en la que es necesario resolver el codigo secreto de la puerta.
+
 ![Captura de pantalla (50)](https://user-images.githubusercontent.com/106731785/172445786-860edc5f-32ff-4667-9b14-3e165dbc0ef5.jpg)
 
-
+Cuando el codigo es introducido correctamente, se abre un portal y hay dos finales alternativos a elegir.
 
 ### 2.2. Esquema de navegación 
 
