@@ -110,7 +110,7 @@ Este  proyecto es interesante porque ...
 
 
 # 4. Conclusiones 
-
+Estoy muy contento con el trabajo realizado.
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 
