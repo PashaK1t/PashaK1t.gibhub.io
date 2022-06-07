@@ -91,7 +91,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este proyecto es interesante porque tiene una estetica visual muy bien desarollada. El juego pretende imitar 3D en cuanto a la perspectiva, y tambíen, usa la superposición de los planos para poder crear escenarios dinamicos. Desde el principio no sabes que es lo que está pasando, pero conforme va avanzando el juego, vas entendiendo quién eres y que es lo que está sucediendo alrededor. Lo interesante de este juego es que hay dos finales alternativos, lo que motiva a la persona volver al juego para ver que pasaría sí...
+Este proyecto es interesante porque tiene una estetica visual muy bien desarollada. El juego pretende imitar 3D en cuanto a la perspectiva, y tambíen, usa la superposición de los planos para poder crear escenarios dinamicos. Desde el principio no sabes que es lo que está pasando, pero conforme va avanzando el juego, vas entendiendo quién eres y que es lo que está sucediendo alrededor. Lo interesante de este juego es que hay dos finales alternativos, es una de las razones por la cuál las personas pueden volver a jugar para ver que pasaría sí...
 
 
 
