@@ -112,11 +112,11 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 - Video : Decidí meter los vídeos dentro de la galería, en un apartado cuyo nombre es "Mis otros proyectos".
 
-
-- Instrucciones y ayuda al usuario: 
+- Instrucciones y ayuda al usuario: Al principio del juego decidí meter letrero con ayuda, para que el usuario sepa como funciona el movimiento del personaje. Durante el desarollo de la historia el personaje habla y allí ya se entiende que es lo que necesario hacer para poder pasar a la siguiente escena.
 
 - Menús y elementos de navegación (botones)
-- etc.
+
+- 3D - Intenté simular entorno 3D usando superposición de los planos. La finalidad era crear entornos dinamicos.
 
 
 
