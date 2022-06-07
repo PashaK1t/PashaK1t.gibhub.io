@@ -46,6 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 ![Captura de pantalla (44)](https://user-images.githubusercontent.com/106731785/172447234-93a6f0e3-c5c7-4bab-90aa-a84b6c4e7e40.jpg)
+El juego se inicia con una introducción breve donde aparece logotipo del juego. Tras esto, accedemos al menú inicial. Donde podemos iniciar la partida, ver la galería con los fondos que aparecen en el juego o ver los creditos.
 
 ![221321312](https://user-images.githubusercontent.com/106731785/172446116-eb215d7d-fcd9-4660-b443-74db554a7a2c.jpg)
 
