@@ -45,9 +45,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![Captura de pantalla (44)](https://user-images.githubusercontent.com/106731785/172447234-93a6f0e3-c5c7-4bab-90aa-a84b6c4e7e40.jpg)
 
 ![221321312](https://user-images.githubusercontent.com/106731785/172446116-eb215d7d-fcd9-4660-b443-74db554a7a2c.jpg)
 
@@ -93,7 +91,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a un publico general quien sabe usar un ordenador.
+- Orientado al público general, mayoritariamente jovenes.
 
 
 
