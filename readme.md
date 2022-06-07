@@ -84,14 +84,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Undertale fue juego en el cuál me inspiré a la hora de realizar este trabajo. Es sencillo y chulo esteticamente.
+- 100 Doors, juego donde tienes que intentar abrir la puerta interactuando con el entorno. 
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante porque tiene una estetica visual muy bien desarollada. El juego pretende imitar 3D en cuanto a la perspectiva, y tambíen, usa la superposición de los planos para poder crear escenarios dinamicos. Desde el principio no sabes que es lo que está pasando, pero conforme va avanzando el juego, vas entendiendo quién eres y que es lo que está sucediendo alrededor. Lo interesante de este juego es que hay dos finales alternativos, lo que motiva a la persona volver al juego para ver que pasaría sí...
 
 
 
