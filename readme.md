@@ -123,12 +123,13 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 ### Etapa 3: Problemas identificados
 
-Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si funciona.
+Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si funciona. Tengo problemas con el candado, cuando metes el código equivocado sigue pasando de la escena. En principio tengo solamente estos dos errores.
 
 
 
 # 4. Conclusiones 
-Estoy muy contento con el trabajo realizado.
+Estoy muy contento con el trabajo realizado. Al principio me costó un poco iniciar el proceso, porque no tuve muy clara la historia que quiero transmitir al jugador. Pero conforme he ido avanzando en las distintas prácticas que hemos ido haciendo en la clase, todo iba encajandose perfectamente poco a poco.
+
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 
