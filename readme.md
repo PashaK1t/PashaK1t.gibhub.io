@@ -137,8 +137,9 @@ Este  proyecto es interesante porque ...
 - Adobe Photoshop 2022
 - Pixel Studio
 - Garage Band ( Música )
+- Procreate
 
 
-![88x31](https://user-images.githubusercontent.com/106731785/172371966-8b13d67d-abdb-442e-9d80-4c85de11e5f8.png)
+     ![88x31](https://user-images.githubusercontent.com/106731785/172371966-8b13d67d-abdb-442e-9d80-4c85de11e5f8.png)
 
 Junio 2022
