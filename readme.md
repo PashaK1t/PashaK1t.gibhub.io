@@ -113,7 +113,7 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 - Instrucciones y ayuda al usuario: Al principio del juego decidí meter letrero con ayuda, para que el usuario sepa como funciona el movimiento del personaje. Durante el desarollo de la historia el personaje habla y allí ya se entiende que es lo que necesario hacer para poder pasar a la siguiente escena.
 
-- Menús y elementos de navegación (botones) : Todos los botones que aparecen en el juego fueron diseñados especialmente para que encajen con la estetica del proyecto. Todos son diseños propios. 
+- Menús y elementos de navegación (botones) : Todos los botones que aparecen en el juego fueron diseñados especialmente para que encajen con la estetica del proyecto. Todos son diseños propios. Hay botones básicos como ir hacia delante o atrás. Tambíen, hay botones como SKIP Y BELONGING. El primero sirve para poder saltar por ejemplo la introducción. A su vez, botón BELONGING sirve para ir al menú principal. ( Aparece en la galería y en el final del juego).
 
 - 3D: Intenté simular entorno 3D usando superposición de los planos. La finalidad era crear entornos dinamicos.
 
@@ -123,7 +123,7 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 ### Etapa 3: Problemas identificados
 
-Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si que funciona.
+Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si funciona.
 
 
 
