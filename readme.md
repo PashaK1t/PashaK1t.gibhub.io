@@ -109,14 +109,15 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 - Juego : Belonging tiene varios elementos claves : De lo básico, es el movimiento del personaje con el teclado. Cuando el personaje se superpone las "areas calientes" podemos ver texto que nos guía por el juego. También, en el juego aparecen elementos como Candado, donde es necesario adivinar el código, o toma de las decisiones en final, donde te lleva a uno de los finales alternativos. 
 
-
 - Video : Decidí meter los vídeos dentro de la galería, en un apartado cuyo nombre es "Mis otros proyectos".
 
 - Instrucciones y ayuda al usuario: Al principio del juego decidí meter letrero con ayuda, para que el usuario sepa como funciona el movimiento del personaje. Durante el desarollo de la historia el personaje habla y allí ya se entiende que es lo que necesario hacer para poder pasar a la siguiente escena.
 
-- Menús y elementos de navegación (botones)
+- Menús y elementos de navegación (botones) : Todos los botones que aparecen en el juego fueron diseñados especialmente para que encajen con la estetica del proyecto. Todos son diseños propios. 
 
-- 3D - Intenté simular entorno 3D usando superposición de los planos. La finalidad era crear entornos dinamicos.
+- 3D: Intenté simular entorno 3D usando superposición de los planos. La finalidad era crear entornos dinamicos.
+
+- Música: La parte musical del juego es muy importante, por lo cual decidí crear un par de canciones para poder transmitir la atmósfera que quiero.
 
 
 
