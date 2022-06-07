@@ -36,7 +36,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github:https://github.com/PashaK1t
 - Instagram :https://www.instagram.com/pashak1t/
 
 
