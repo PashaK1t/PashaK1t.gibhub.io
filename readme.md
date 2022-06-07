@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 7/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:https://github.com/PashaK1t
 - Instagram :https://www.instagram.com/pashak1t/
