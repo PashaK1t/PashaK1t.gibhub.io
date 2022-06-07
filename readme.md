@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Belonging
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Belonging
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Pavlo Nikitin
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego / Novela.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -24,13 +24,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Opera, Google Crome y en los dispositivos móviles. En el ordenador no da ningún tipo de error. Sin embargo, no está adaptado para dispositivos móviles ya que es necesario usar las teclas para poder mover al personaje. Pero aún así es posible ver la galería y los creditos sin ningún problema.
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 7/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -39,7 +39,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -86,7 +85,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un publico general quien sabe usar un ordenador.
 
 
 
@@ -128,13 +127,17 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: La gran parte de música que hay en el juego esta hecha por mí. En el final usé la musica de : Clinton Patrick Rusich - Broken Wings. https://www.youtube.com/watch?v=E7n1aeBtwXM 
+* Imágenes: Imagenes propias y imagenes sacados del banco libre de imagenes.
+* Tipografía: La tipografía de los botones está diseñada por mí. Para el texto en el juego, usé fuente Paladin.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
+- Adobe Photoshop 2022
+- Pixel Studio
+- Garage Band ( Música )
+- 
 - 
 
 
@@ -143,4 +146,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
