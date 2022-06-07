@@ -19,6 +19,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Videojuego / Novela.
 
 **Logotipo** : 
+
+
 ![belonging](https://user-images.githubusercontent.com/106731785/172443987-63d2ed1b-2d19-49c5-8eb1-de7a1bcfa826.png)
 
 
