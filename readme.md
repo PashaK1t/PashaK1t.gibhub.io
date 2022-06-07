@@ -107,9 +107,14 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Juego : Belonging tiene varios elementos claves : De lo básico, es el movimiento del personaje con el teclado. Cuando el personaje se superpone las "areas calientes" podemos ver texto que nos guía por el juego. También, en el juego aparecen elementos como Candado, donde es necesario adivinar el código, o toma de las decisiones en final, donde te lleva a uno de los finales alternativos. 
+
+
+- Video : Decidí meter los vídeos dentro de la galería, en un apartado cuyo nombre es "Mis otros proyectos".
+
+
+- Instrucciones y ayuda al usuario: 
+
 - Menús y elementos de navegación (botones)
 - etc.
 
