@@ -49,7 +49,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
-![Captura de pantalla (45)](https://user-images.githubusercontent.com/106731785/172445717-faddfc58-fc13-4158-8b10-c0af56299447.jpg)
+![221321312](https://user-images.githubusercontent.com/106731785/172446116-eb215d7d-fcd9-4660-b443-74db554a7a2c.jpg)
 
 ![Captura de pantalla (48)](https://user-images.githubusercontent.com/106731785/172445745-15aa2196-f39f-4971-b999-b85eba345c91.jpg)
 
