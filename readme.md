@@ -16,19 +16,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género:**  Juego / Novela.
+**Estilo/género:**  Videojuego / Novela.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo y reescalable.
 
 **Probado en:** Opera, Google Crome y en los dispositivos móviles. En el ordenador no da ningún tipo de error. Sin embargo, no está adaptado para dispositivos móviles ya que es necesario usar las teclas para poder mover al personaje. Pero aún así es posible ver la galería y los creditos sin ningún problema.
 
 **Tamaño proyecto:** 14MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional
 
 **Fecha** : 7/06/2022
 
