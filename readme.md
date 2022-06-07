@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Pavlo Nikitin
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca contar la historia sobre un migrante que tiene que huir de la guerra. Durante el juego se toca el tema de la "pertenencia" o en inglés "Belonging". Juego combina la historia real con un poco de misterio.
 
 **Estilo/género:**  Videojuego / Novela.
 
