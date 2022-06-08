@@ -28,7 +28,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:** Opera, Google Crome y en los dispositivos móviles. En el ordenador no da ningún tipo de error. Sin embargo, no está adaptado para dispositivos móviles ya que es necesario usar las teclas para poder mover al personaje. Pero aún así es posible ver la galería y los creditos sin ningún problema.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 8.33MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional
 
