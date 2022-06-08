@@ -123,7 +123,7 @@ Este proyecto es interesante porque tiene una estetica visual muy bien desarolla
 
 ### Etapa 3: Problemas identificados
 
-Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si funciona. Tengo problemas con el candado, cuando metes el código equivocado sigue pasando de la escena. En principio tengo solamente estos dos errores.
+Al exportar el juego, no funciona la música de la introducción. Sin embargo en el hippany si funciona. Tambien, uno de los problemas que hemos descubierto en la clase fue que las teclas están activas durante algunas escenas y producen el bucle en el candado. Pero cuando lo revisé en los navegadores web como Opera y Google Crome en principio no da este error, solamente en la escena cuando pulsas "Huir".
 
 
 
