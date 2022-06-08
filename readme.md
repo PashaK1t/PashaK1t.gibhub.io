@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Belonging
 
-**Web:**   (url github.io)
+**Web:**   [(url github.io)](https://pashak1t.github.io/Belonging.html)
 
 **Autor:**  Pavlo Nikitin
 
