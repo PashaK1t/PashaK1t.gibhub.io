@@ -129,8 +129,7 @@ Al exportar el juego, no funciona la música de la introducción. Sin embargo en
 
 # 4. Conclusiones 
 Estoy muy contento con el trabajo realizado. Al principio me costó un poco iniciar el proceso, porque no tuve muy clara la historia que quiero transmitir al jugador. 
-A pesar de las limitaciones que tiene Hippany, decidí desarollar mi proyecto de la mejor forma posible. Y creo que lo conseguí bastante bien, además, metí escenas animadas que se complementan bastante bien. 
-Es cierto que el juego se quedó corto, el problema está en que gasté mucho tiempo para ver por qué no me funcionaba el Candado y porque decidí hacer escenas animadas y me quitó mucho tiempo conseguir que vaya bien.
+Tambíen, a pesar de las limitaciones que tiene Hippany, decidí desarollar mi proyecto de la mejor forma posible. Y creo que lo conseguí bastante bien, además, metí escenas animadas que se complementan bastante bien. Es cierto que el juego se quedó corto, el problema está en que gasté mucho tiempo para ver por qué no me funcionaba el Candado y porque decidí hacer escenas animadas y me quitó mucho tiempo conseguir que vaya bien. Aún así, estoy muy satisfecho con el resultado y me gustaría seguir desarollandolo hasta poder conseguir un juego mucho más completo y con más contenido. Tambíen, antes de publicar el juego, lo dejé probar a mis amigos y feedback fue bastante bueno y muchos han dicho que casi lloran con el final.
 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
